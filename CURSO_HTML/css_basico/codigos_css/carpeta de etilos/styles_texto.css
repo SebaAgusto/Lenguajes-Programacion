@@ -1,0 +1,99 @@
+.p1{
+    color: red;
+}
+
+.p2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.p3{
+    font-size: 30px;
+}
+
+.p4{
+    font-size: 10px;
+}
+
+.p5{
+    font-weight:bolder
+}
+
+.p6{
+    font-weight: lighter;
+}
+
+.p7{
+    font-style: normal;
+}
+
+.p8{
+    font-style: italic;
+}
+
+.p9{
+    font-style: oblique;
+}
+
+.p10{
+    text-align: left;
+}
+
+.p11{
+    text-align: center;
+}
+
+.p12{
+    text-align: right;
+}
+
+.p13{
+    text-align: justify;
+}
+
+.p14{
+    text-decoration: none;
+}
+
+.p15{
+    text-decoration: underline;
+}
+
+.p16{
+    text-decoration: line-through;
+}
+
+.p17{
+    text-decoration: overline;
+}
+
+.p18{
+    text-decoration: overline underline;
+}
+
+.p19{
+    text-decoration: overline underline line-through;
+}
+
+.p20{
+    line-height: normal;
+}
+
+.p21{
+    line-height: 2;
+}
+
+.p22{
+    letter-spacing: 10PX;
+}
+
+.p23{
+    text-transform: lowercase;
+}
+
+.p24{
+    text-transform: uppercase;
+}
+
+.p25{
+    text-transform: capitalize;
+}
